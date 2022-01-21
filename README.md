@@ -14,7 +14,7 @@
 
 <div align="center">
   <p align="center">
-<img src=https://www.linkpicture.com/q/IMG-20220108-WA0143.jpg>
+<img src=https://i.ibb.co/3y75Fkk/maaluttty.jpg>
 </p>
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=WELCOME+TO+ABUSER+WA+BOT+REPO;CREATED+BY+AJX+ABU;THIS+IS+A+USERBOT+PRIVATE+AND+PUBLIC+BOT;WITH+MORE+FEATHERS)](https://git.io/typing-svg)
