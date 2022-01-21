@@ -116,10 +116,10 @@ you can contact 👇🏻👇🏻
 ## Developers
   <div align="center">
     
-  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![Ajx-Abu](https://github.com/Ajx-Abu.png?size=100)](https://github.com/Ajx-Abu) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![Aj-fx](https://github.com/Aj-fx.png?size=100)](https://github.com/Aj-fx) | [![Ajx-Abu](https://github.com/Ajx-Abu.png?size=100)](https://github.com/Ajx-Abu) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----|----
-[farhan-dqz](https://github.com/farhan-dqz) | [Ajx-Abu](https://github.com/Ajx-Abu) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) 
-Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
+[Aj-fx](https://github.com/Aj-fx) | [Ajx-Abu](https://github.com/Ajx-Abu) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) 
+Developer, Base, Bug Fixes, Modules| Developer, Base, Bug Fixes, Modules|  Modifiying  as   public | Bug Fixes, Modules 
   </div>
     
 
